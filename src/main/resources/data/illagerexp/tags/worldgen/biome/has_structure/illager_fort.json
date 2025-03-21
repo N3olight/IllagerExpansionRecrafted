@@ -6,6 +6,7 @@
     "minecraft:old_growth_spruce_taiga",
     "minecraft:taiga",
     "minecraft:snowy_taiga",
-    "minecraft:snowy_plains"
+    "minecraft:snowy_plains",
+    "minecraft:is_taiga"
   ]
 }
